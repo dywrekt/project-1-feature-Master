@@ -1,0 +1,385 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame7test.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1499.5,
+                "y": 283.5
+            }
+        },
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx#schooltile": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame.tmx": {
+            "scale": 1.1033854166666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.6570686806703,
+                "y": 288.6570686806703
+            }
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame.tmx#school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame7test.json": {
+            "scale": 1.454280821917808,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 281.92629224066883,
+                "y": 283.3015424467209
+            }
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame7test.json#BitGame": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame7test.json#coingold": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham.json": {
+            "scale": 1.3642995123630772,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 208.53192236888142,
+                "y": 386.27881577645167
+            }
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham.json#BitGame": {
+            "scaleInDock": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham.json#coingold": {
+            "scaleInDock": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham8.json": {
+            "scale": 1.454280821917808,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 290.8654185800071,
+                "y": 284.67679265277286
+            }
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham8.json#BitGame": {
+            "scaleInDock": 1
+        },
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham8.json#coingold": {
+            "scaleInDock": 1
+        },
+        "Assets/TileSets/floor - Copy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/renat/Downloads/BitGame7test.json#BitGame": {
+            "scaleInDock": 1
+        },
+        "C:/Users/renat/Downloads/BitGame7test.json#coingold": {
+            "scaleInDock": 1
+        },
+        "GameTileDemo.json": {
+            "scale": 2.242,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 197.14540588760036,
+                "y": 198.9295272078501
+            }
+        },
+        "GameTileDemo.json#game": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "Scripts/JSON/GameTileDemo.json": {
+            "scale": 1.5105,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 200.5958291956306,
+                "y": 297.58358159549823
+            }
+        },
+        "Scripts/JSON/GameTileDemo.json#game": {
+            "scaleInDock": 1
+        },
+        "bullshit.tmx": {
+            "scale": 1.281015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.44886259681647,
+                "y": 320.44886259681647
+            }
+        },
+        "bullshit.tmx#game": {
+            "scaleInDock": 1.5
+        },
+        "game.tmx": {
+            "scale": 1.5247499999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.16264961469093,
+                "y": 182.65289391703558
+            }
+        },
+        "game.tmx#game": {
+            "scaleInDock": 1
+        },
+        "game.tmx#schoolTileDemo": {
+            "scaleInDock": 1
+        },
+        "game.tmx#schoolTileDemo2": {
+            "scaleInDock": 1
+        },
+        "game.tmx#schoolTileDemo3": {
+            "scaleInDock": 1
+        },
+        "game.tmx#swag": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapDemo.tmx": {
+            "scale": 1.2674278846153846,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 358.20578473210054,
+                "y": 267.07633949739215
+            }
+        },
+        "school.tmx": {
+            "scale": 1.73375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.06921413121847,
+                "y": 200.72098053352562
+            }
+        },
+        "school.tmx#game": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "school.tmx#school": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "schoolPlein.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 261.3333333333333,
+                "y": 521
+            }
+        },
+        "schoolPlein.tmx#floor": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "schoolPlein.tmx#game": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx": {
+            "scale": 1.6909999999999998,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 200.17740981667654,
+                "y": 200.17740981667654
+            }
+        },
+        "schoolTileDemo.tmx#characters": {
+            "scaleInDock": 1
+        },
+        "schoolTileDemo.tmx#pokemonTileseto": {
+            "scaleInDock": 0.33
+        },
+        "schoolTileDemo.tmx#pokemontownTileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#schoolTileDemo": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#schoolTileDemo2": {
+            "scaleInDock": 4,
+            "scaleInEditor": 3
+        },
+        "schoolTileDemo.tmx#schoolTileDemo3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#schoolTileSet": {
+            "scaleInDock": 1
+        },
+        "schoolTileDemo.tmx#test2": {
+            "scaleInDock": 1
+        },
+        "schoolTileDemo.tmx#tileFloor": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "schoolTileDemo.tmx#woodenBench": {
+            "scaleInDock": 1.5
+        },
+        "schooltileDemo.tmx": {
+            "scale": 2.1755,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 188.4624224316249,
+                "y": 199.26453688807172
+            }
+        },
+        "schooltileDemo.tmx#tileFloor": {
+            "scaleInDock": 1
+        },
+        "test.tmx": {
+            "scale": 2.052,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 195.6627680311891,
+                "y": 213.45029239766083
+            }
+        },
+        "test.tmx#game": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "test.tmx#schoolTileDemo3": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "test2.tmx": {
+            "scale": 2.0357142857142856,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 162.8421052631579,
+                "y": 168.73684210526315
+            }
+        },
+        "test2.tmx#test": {
+            "scaleInDock": 3
+        },
+        "tmx/schoolPlein.tmx": {
+            "scale": 0.987109375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.6359319351009,
+                "y": 320.6331618519984
+            }
+        },
+        "tmx/schoolPlein.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "tmx/schoolPlein.tmx#game": {
+            "scaleInDock": 1
+        },
+        "tmx/test.tmx": {
+            "scale": 1.588875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 199.51223349854462,
+                "y": 199.82692156399966
+            }
+        },
+        "tmx/test.tmx#game": {
+            "scaleInDock": 1
+        },
+        "tmx/untitled.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 330,
+                "y": 291.5
+            }
+        },
+        "tmx/untitled.tmx#game": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 1.364140625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 261.7032243285035,
+                "y": 319.615142317164
+            }
+        },
+        "untitled.tmx#game": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "untitled.tmx#game2": {
+            "scaleInDock": 1.5
+        },
+        "untitled.tmx#ground": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "untitled.tmx#tileFloor": {
+            "scaleInDock": 1
+        },
+        "untitled2.tmx": {
+            "scale": 2.1755,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.13973799126637,
+                "y": 200.18386577798205
+            }
+        },
+        "yard.tmx": {
+            "scale": 1.238392857142857,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 310.88680605623654,
+                "y": 279.3943763518385
+            }
+        }
+    },
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.json)",
+    "map.fixedSize": true,
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "json",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "tmx/untitled.tmx",
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx",
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame7test.json"
+    ],
+    "project": "",
+    "property.type": "string",
+    "recentFiles": [
+        "tmx/untitled.tmx",
+        "A:/BitProject/project-1-feature-bitgame/tiled_maps/BitGame.tmx",
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame7test.json",
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham8.json",
+        "C:/Users/renat/Downloads/BitGame7test.json",
+        "A:/BitProject/project-1-feature-scorehealth/tiles/gameHicham.json",
+        "A:/BitProject/project-1-feature-scorehealth/tiles/BitGame.tmx",
+        "Scripts/JSON/GameTileDemo.json",
+        "tmx/test.tmx",
+        "tmx/schoolPlein.tmx",
+        "untitled.tmx",
+        "schoolPlein.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
